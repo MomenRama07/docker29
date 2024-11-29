@@ -20,4 +20,4 @@ jobs:
              - name: 'testing github actions'  
                run : pwd
              - name: 'testing printing'  
-               run : eco momen
+               run : echo momen
