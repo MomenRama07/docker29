@@ -21,3 +21,5 @@ jobs:
                run : pwd
              - name: 'testing printing'  
                run : echo momen
+             - name: 'testing printing'  
+               run : ls
